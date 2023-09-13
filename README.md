@@ -1,5 +1,16 @@
 # TestNode
-Run code: /n
-npm install
+## Getting Started
+
+First:
+```bash
+npm install 
+```
+Run code:
+```bash
 npm run dev
-Go to: http://localhost:3000/
+```
+
+Go to localhost:
+```bash
+http://localhost:3000/
+```
